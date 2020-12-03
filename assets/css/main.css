@@ -8,38 +8,38 @@
 */
 
 /* Reset */
-#header1 {
-	background-color:transparent;
-	opacity: 1;
-	display: flex;
-	justify-content: space-evenly;
-	
-	}
+	#header1 {
+		background-color:transparent;
+		opacity: 1;
+		display: flex;
+		justify-content: space-evenly;
+		
+		}
 
-#header1 ol {
-	display: flex;
-	height: inherit;
-	justify-content: space-around;
-}
-#header1 ol li {
-	justify-content: space-around;
-	height: inherit;
-	text-decoration: none;
-	list-style: none;
-}
-.menu {
-	height:inherit;
-}
-#header1 a {
-	color:white;
-	text-decoration: none;
-	height: inherit;
-	display: flex;
-	align-items: center;
-	align-content: center;
-	justify-content: space-around;
-	padding: 30px
-}
+	#header1 ol {
+		display: flex;
+		height: inherit;
+		justify-content: space-around;
+	}
+	#header1 ol li {
+		justify-content: space-around;
+		height: inherit;
+		text-decoration: none;
+		list-style: none;
+	}
+	.menu {
+		height:inherit;
+	}
+	#header1 a {
+		color:white;
+		text-decoration: none;
+		height: inherit;
+		display: flex;
+		align-items: center;
+		align-content: center;
+		justify-content: space-around;
+		padding: 30px
+	}
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
